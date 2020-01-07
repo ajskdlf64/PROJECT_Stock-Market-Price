@@ -23,3 +23,7 @@
 ## 06. Stock Market Price Predict Model (LSTM, GPU))
 
 예측 시점은 시장일 기준 5일 후, Stacking Model을 위해 LSTM 모델을 setting, GPU 환경에서 구동을 위해 3-Layer LSTM 설계
+
+## 07. New Dataset
+
+여러 종목에 대하여 모델 구축을 위한 dataframe 구축
