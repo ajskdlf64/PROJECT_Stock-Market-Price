@@ -16,6 +16,10 @@
 
 주식 시장에 대해 기술적 분석을 위한 다양한 지표들
 
-## 05. Stock Market Price Predict Model (LSTM Ver))
+## 05. Stock Market Price Predict Model (LSTM, CPU))
 
-예측 시점은 시장일 기준 5일 후, Stacking Model을 위해 LSTM 모델을 setting
+예측 시점은 시장일 기준 5일 후, Stacking Model을 위해 LSTM 모델을 setting, CPU 환경에서 구동을 위해 단층 LSTM 설계
+
+## 06. Stock Market Price Predict Model (LSTM, GPU))
+
+예측 시점은 시장일 기준 5일 후, Stacking Model을 위해 LSTM 모델을 setting, GPU 환경에서 구동을 위해 3-Layer LSTM 설계
