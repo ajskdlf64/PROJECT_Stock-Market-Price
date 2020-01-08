@@ -16,14 +16,22 @@
 
 주식 시장에 대해 기술적 분석을 위한 다양한 지표들
 
-## 05. Stock Market Price Predict Model (LSTM, CPU))
+## 05. Stock Market Price Predict Model (LSTM, CPU)
 
 예측 시점은 시장일 기준 5일 후, Stacking Model을 위해 LSTM 모델을 setting, CPU 환경에서 구동을 위해 단층 LSTM 설계
 
-## 06. Stock Market Price Predict Model (LSTM, GPU))
+## 06. Stock Market Price Predict Model (LSTM, GPU)
 
 예측 시점은 시장일 기준 5일 후, Stacking Model을 위해 LSTM 모델을 setting, GPU 환경에서 구동을 위해 3-Layer LSTM 설계
 
-## 07. New Dataset
+## 07. Stock Market Price Predict Model (Top30 ,Bottom30)
 
-여러 종목에 대하여 모델 구축을 위한 dataframe 구축
+Facebook PROPHET 모형으로 돌렸을 때 RMSE가 가장 높은 30개의 종목과 가장 낮은 30개의 종목에 대하여 LSTM의 RMSE 산출
+
+## 08. Stock Market Price Predict Model (with OHLC, TOP30, BOTTOM30)
+
+07의 종목들을 직접 구하는 코드
+
+## 09. 2324 Code All Model
+
+2017 ~ 2019년의 데이터가 완전하게 존재하는 2,234개의 종목에 대하여 Machine Learning 기법 적용
