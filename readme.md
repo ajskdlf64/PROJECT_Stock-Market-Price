@@ -32,6 +32,6 @@ Facebook PROPHET 모형으로 돌렸을 때 RMSE가 가장 높은 30개의 종�
 
 07의 종목들을 직접 구하는 코드
 
-## 09. 2324 Code All Model
+## 09. 2324 Code All Model (sklearn Linear Regression)
 
 2017 ~ 2019년의 데이터가 완전하게 존재하는 2,234개의 종목에 대하여 Machine Learning 기법 적용
