@@ -32,10 +32,14 @@ Facebook PROPHET 모형으로 돌렸을 때 RMSE가 가장 높은 30개의 종�
 
 07의 종목들을 직접 구하는 코드
 
-## 09. 2324 Code All Model (sklearn Linear Regression)
+## 09. Linear Regression with 2324 codes (close)
 
-2017 ~ 2019년의 데이터가 완전하게 존재하는 2,234개의 종목에 대하여 Machine Learning 기법 적용
+close만을 사용한 단순 회귀 모델
 
-## 10. Machine Learning Model Compare
+## 10. Linear Regression with 2324 codes (ohlc)
 
-09에서 만든 데이터들을 다양한 머신러닝 알고리즘에 적용하여 "SK하이닉스(000660)" 종목에 대하여 RMSE를 비교
+ohlc를 활용한 Multi Linear Regression
+
+## 11. Model Build
+
+모델 설명 / 현재 상황 / 향후 진행 방향
