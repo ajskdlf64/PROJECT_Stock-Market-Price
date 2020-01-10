@@ -43,3 +43,7 @@ ohlc를 활용한 Multi Linear Regression
 ## 11. Model Build
 
 모델 설명 / 현재 상황 / 향후 진행 방향
+
+## 12. LightGBM
+
+LightGBM 알고리즘의 논문 및 번역본 / 하이퍼파라미터 설명
