@@ -47,3 +47,7 @@ ohlc를 활용한 Multi Linear Regression
 ## 12. LightGBM
 
 LightGBM 알고리즘의 논문 및 번역본 / 하이퍼파라미터 설명
+
+## 13. LightGBM with Stock Data
+
+3년간의 모든 종목들에 대한 기본 OHLC와 사내 창출 데이터를 결합하여 LightGBM을 활용한 Multi-Class-Classification Model 구축
