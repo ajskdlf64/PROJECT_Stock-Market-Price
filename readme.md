@@ -56,6 +56,6 @@ LightGBM 알고리즘의 논문 및 번역본 / 하이퍼파라미터 설명
 
 3년간의 모든 종목들에 대한 기본 OHLC와 사내 창출 데이터를 결합하여 LightGBM을 활용한 Multi-Class-Classification Model 구축
 
-## 15. LightGBM with Stock Data (with csv, term change)
+## 15. LightGBM with Stock Data (with csv, term change 12 Class)
 
 Class의 구간을 좀 더 세분화로 변경.
